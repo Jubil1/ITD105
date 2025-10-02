@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-st.set_page_config(page_title="Student Exam Performance", layout="wide")
+st.set_page_config(page_title="HATAG PISO SIR", layout="wide")
 st.title("📊 Exploratory Data Analysis (EDA) — Student Exam Performance")
 
 # --- Helper functions ---
