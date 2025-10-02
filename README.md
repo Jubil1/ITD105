@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/595d445c-e731-4787-9871-46b25779a46a
 
    ```bash
    git clone <your-repo-url>
-   cd Lab1_bigData
+   cd ITD105
    ```
 
 2. **Install required packages**
